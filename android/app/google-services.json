@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778835369797",
+    "project_id": "fir-chat-app-cfcbb",
+    "storage_bucket": "fir-chat-app-cfcbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778835369797:android:ead6ec2ec7bbe4a5e2282c",
+        "android_client_info": {
+          "package_name": "com.chat.mychatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL_XTXbc4CihzlR6jf27ab-9mULEO1J5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
